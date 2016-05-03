@@ -3,6 +3,8 @@
 export(AssignNearestSpeciesCategory)
 export(FindResilience)
 export(FormatForRegression)
+export(RunProjection)
+export(SnowProjections)
 export(apply_prm)
 export(assign_life_history)
 export(assign_phi)
